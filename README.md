@@ -26,15 +26,15 @@ This project focuses on Celebrity Face Recognition using machine learning techni
    git clone https://github.com/your_username/celebrity-face-recognition.git
    cd celebrity-face-recognition
 
-Install Dependencies:
+2. **Install Dependencies:**
 
 pip install -r requirements.txt
 
-Run the Application:
+3. **Run the Application:**
 
 cd server 
 python server.py
 
-
-Access the Web Interface:
+4. **Access the Web Interface:**
+   
 Open a browser and go to http://localhost:5000 to access the application.
